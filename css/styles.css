@@ -1,0 +1,48 @@
+body {
+	font-family: 'Oxygen', sans-serif;
+	background-color: white;
+}
+
+
+
+ul {
+    list-style-type: none;
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    color: black;
+}
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+	background-color: #111111;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+#header-nav {
+	background-color: #DBB9A8;
+	border-radius: 0;
+	border: 0;
+}
+
+#karl-img {
+	background: url() no-repeat;
+	width:;
+	height:;
+	margin:;
+}
